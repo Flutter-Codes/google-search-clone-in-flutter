@@ -22,7 +22,7 @@ flutter run
 
 ## Screenshot
 | Mobile        | Table           | Desktop  |
-| ------------- |:-------------:| -----:|
+| :-------------: |:-------------:| :-----:|
 | ![Google Search Clone](/screenshot/mobile.jpg)     | ![Google Search Clone](/screenshot/tablet.png) | ![Google Search Clone](/screenshot/desktop.png) |
 
 
